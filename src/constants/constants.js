@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/piano.png',
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/SimplePianoApp',
-    visit: 'https://github.com/cutlerwater/SimplePianoApp',
+    visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
     id: 2,
   },
   {
