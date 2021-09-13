@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Piano App',
     description: "This is a code repository for my simple piano app.",
-      image: '/images/piano.png',
+      image: '/images/piano.PNG',
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/SimplePianoApp',
     visit: 'https://github.com/cutlerwater/SimplePianoApp',
