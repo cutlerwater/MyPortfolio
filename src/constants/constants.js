@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Covid Tracker',
+    description: "This is a Covid Tracking app I've built using React.JS.",
+    image: '/images/covid.png',
+    tags: ['React', 'JavaScript', 'HTML'],
+    source: 'https://github.com/cutlerwater/CovidTracker',
+    visit: 'https://jolly-curie-ca8fbc.netlify.app/',
     id: 3,
   },
 ];
