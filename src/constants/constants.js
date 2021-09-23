@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Dentist Website',
     description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. ",
-      image: '/images/1.png',
+      image: '/images/dental-care.png',
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentistWebsite',
     visit: 'https://gcutler.herokuapp.com/',
