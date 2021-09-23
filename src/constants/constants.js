@@ -1,21 +1,12 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Dentist Website',
+    description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. ",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Django', 'Python', 'HTML', 'CSS'],
+    source: 'https://github.com/cutlerwater/DentistWebsite',
+    visit: 'https://gcutler.herokuapp.com/',
     id: 0,
-  },
-  {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 1,
   },
   {
     title: 'Piano App',
@@ -24,7 +15,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/SimplePianoApp',
     visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
-    id: 2,
+    id: 1,
   },
   {
     title: 'Covid Tracker',
@@ -32,7 +23,16 @@ export const projects = [
     image: '/images/covid.png',
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
-    visit: 'https://jolly-curie-ca8fbc.netlify.app/',
+    visit: 'https://cutlerwater-covid-tracker.netlify.app/',
+    id: 2,
+  },
+  {
+    title: 'E-Commerce',
+    description:"Not built yet but something is coming soon.",
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript'],
+    source: 'https://google.com',
+    visit: '',
     id: 3,
   },
 ];
