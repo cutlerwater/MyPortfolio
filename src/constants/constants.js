@@ -7,7 +7,7 @@ export const projects = [
     source: 'https://github.com/cutlerwater/student_portal',
     visit: 'https://cw-student-portal.herokuapp.com/',
     id: 0,
-  }
+  },
   {
     title: 'Dentist Website',
     description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. ",
@@ -42,7 +42,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 3,
+    id: 4
   }
 ];
 
