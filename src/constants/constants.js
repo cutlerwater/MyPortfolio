@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Gatsby App',
     description: "Coming soon... My first project involving Gatsby JS",
-      image: 'Gatsby_Contentful.jpg',
+      image: '/images/Gatsby_Contentful.jpg',
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/FirstGatsbyProject',
     visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
