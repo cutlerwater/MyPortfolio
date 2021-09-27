@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Student Study Portal',
+    description:"Building this project now.",
+    image: '/images/todo.jpg',
+    tags: ['Django', 'Heroku', 'Python', 'HTML', 'CSS'],
+    source: 'https://github.com/cutlerwater/student_portal',
+    visit: 'https://cw-student-portal.herokuapp.com/',
+    id: 0,
+  }
+  {
     title: 'Dentist Website',
     description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. ",
       image: '/images/dental-care.png',
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentistWebsite',
     visit: 'https://gcutler.herokuapp.com/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Covid Tracker',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Piano App',
@@ -24,15 +33,6 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/SimplePianoApp',
     visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
-    id: 2,
-  },
-  {
-    title: 'E-Commerce',
-    description:"Not built yet but something is coming soon.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: '',
     id: 3,
   },
 ];
