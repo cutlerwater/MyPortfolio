@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Student Study Portal',
-    description:"Building this project now.",
+    description:"This is a fully operational student portal with ability to keep track of homework, todos, look up youtube videos, books, wikipedia, run conversions on things like temperature, mass and length.  Give it a     whirl, though you will have to register a free account to log in to the site. ",
     image: '/images/todo.jpg',
     tags: ['Django', 'Heroku', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/student_portal',
