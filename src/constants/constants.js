@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'CSS Apps',
     description: "This is a collection of small CSS projects ",
-      image: '/images/piano.png',
+      image: '/images/CSSProjects.PNG',
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
