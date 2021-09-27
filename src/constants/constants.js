@@ -27,13 +27,22 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'Gatsby App',
+    description: "Coming soon... My first project involving Gatsby JS",
+      image: 'Gatsby_Contentful.jpg',
+      tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/FirstGatsbyProject',
+    visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
+    id: 4,
+  },
+  {
     title: 'Piano App',
     description: "This is a code repository for my simple piano app.",
       image: '/images/piano.png',
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/SimplePianoApp',
     visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
-    id: 3,
+    id: 4,
   },
   {
     title: 'CSS Apps',
