@@ -28,12 +28,12 @@ export const projects = [
   },
   {
     title: 'Gatsby App',
-    description: "Coming soon... My first project involving Gatsby JS",
+    description: "Another profile site completed but this one is built using Gatsby.JS, GraphQL and markdown pages",
       image: '/images/Gatsby_Contentful.jpg',
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/FirstGatsbyProject',
-    visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
-    id: 4,
+    source: 'https://github.com/cutlerwater/web-warrior',
+    visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
+    id: 3,
   },
   {
     title: 'Piano App',
@@ -51,7 +51,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 4
+    id: 5
   }
 ];
 
