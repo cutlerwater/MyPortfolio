@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Weather Desktop App',
-    description:"This is a nice little page that can retrieve rather specific current weather for any city you input into the site.",
-    image: '/images/weather.png',
+    title: 'News and Weather',
+    description:"I've combined my news and weather apps.",
+    image: '/images/news.png',
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
-    source: 'https://github.com/cutlerwater/weatherapp',
-    visit: 'https://cutlerwater-weatherapp.herokuapp.com/',
+    source: 'https://github.com/cutlerwater/newsApp',
+    visit: 'https://cutlerwater-newsapp.herokuapp.com/',
     id: 1,
   },
   {
