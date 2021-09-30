@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Weather Desktop App',
+    description:"This is a nice little page that can retrieve rather specific current weather for any city you input into the site.",
+    image: '/images/weather.png',
+    tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
+    source: 'https://github.com/cutlerwater/weatherapp',
+    visit: 'https://cutlerwater-weatherapp.herokuapp.com/',
+    id: 1,
+  },
+  {
     title: 'Dentist Website',
     description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. ",
       image: '/images/dental-care.png',
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentistWebsite',
     visit: 'https://gcutler.herokuapp.com/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Covid Tracker',
@@ -24,7 +33,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Gatsby App',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/web-warrior',
     visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Piano App',
@@ -42,7 +51,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/SimplePianoApp',
     visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
-    id: 4,
+    id: 5,
   },
   {
     title: 'CSS Apps',
@@ -51,7 +60,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 5
+    id: 6
   }
 ];
 
