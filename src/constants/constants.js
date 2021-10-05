@@ -9,10 +9,10 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'My Flash Resume',
+    title: 'My Flask Resume',
     description:"I've put together a new Resume app using Flask and Python.",
     image: '/images/Resume.png',
-    tags: ['Flash', 'Heroku', 'Python', 'HTML', 'JS', 'CSS'],
+    tags: ['Flask', 'Heroku', 'Python', 'HTML', 'JS', 'CSS'],
     source: 'https://github.com/cutlerwater/ResumeFlash/',
     visit: 'https://my-cutlerwaterresume.herokuapp.com/',
     id: 2,
