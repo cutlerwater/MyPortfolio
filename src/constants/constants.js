@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'My Flash Resume',
+    description:"I've put together a new Resume app using Flask and Python.",
+    image: '/images/Resume.png',
+    tags: ['Flash', 'Heroku', 'Python', 'HTML', 'JS', 'CSS'],
+    source: 'https://github.com/cutlerwater/ResumeFlash/',
+    visit: 'https://my-cutlerwaterresume.herokuapp.com/',
+    id: 2,
+  },
+  {
     title: 'News and Weather',
     description:"I've combined my news and weather apps.",
     image: '/images/news.png',
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/newsApp',
     visit: 'https://cutlerwater-newsapp.herokuapp.com/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Dentist Website',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentalDjango',
     visit: 'https://dental-template.herokuapp.com/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Covid Tracker',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Gatsby App',
@@ -42,7 +51,7 @@ export const projects = [
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/web-warrior',
     visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Piano App',
@@ -51,7 +60,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/SimplePianoApp',
     visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
-    id: 5,
+    id: 6,
   },
   {
     title: 'CSS Apps',
@@ -60,7 +69,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 6
+    id: 7
   }
 ];
 
