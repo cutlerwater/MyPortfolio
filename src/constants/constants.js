@@ -19,11 +19,11 @@ export const projects = [
   },
   {
     title: 'Dentist Website',
-    description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. ",
+    description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. It was down temporarily but it is back!",
       image: '/images/dental-care.png',
       tags: ['Django', 'Python', 'HTML', 'CSS'],
-    source: 'https://github.com/cutlerwater/DentistWebsite',
-    visit: 'https://gcutler.herokuapp.com/',
+    source: 'https://github.com/cutlerwater/DentalDjango',
+    visit: 'https://dental-template.herokuapp.com/',
     id: 2,
   },
   {
