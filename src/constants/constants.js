@@ -54,12 +54,12 @@ export const projects = [
     id: 5,
   },
   {
-    title: 'Piano App',
-    description: "This is a code repository for my simple piano app.",
-      image: '/images/piano.png',
+    title: 'New Blog App',
+    description: "Coming soon, a fully operational blog site built solely with Django, Python, HTML, Javascript and CSS.",
+      image: '/images/comingsoon.jpg',
       tags: ['JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/SimplePianoApp',
-    visit: 'https://cutlerwateritblog.com/WebProjects/Piano/index.html',
+    source: 'https://github.com/cutlerwater/django-blog',
+    visit: 'https://cutlerwateritblog.com/',
     id: 6,
   },
   {
