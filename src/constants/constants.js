@@ -54,12 +54,12 @@ export const projects = [
     id: 5,
   },
   {
-    title: 'New Blog App',
-    description: "Coming soon, a fully operational blog site built solely with Django, Python, HTML, Javascript and CSS.",
-      image: '/images/comingsoon.jpg',
-      tags: ['JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/django-blog',
-    visit: 'https://cutlerwateritblog.com/',
+    title: 'My own video chat web site!',
+    description: "I am putting the blog on hold for now but I have successfully created my own video chat web site.  It's not as fancy as Teams or Zoom or others yet but it works and it's free!",
+      image: '/images/3.jpg',
+      tags: ['AgoraIO','JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/videochat',
+    visit: 'https://hopeful-curie-c2d2f1.netlify.app/',
     id: 6,
   },
   {
