@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'My own video chat web site!',
+    description: "I am putting the blog on hold for now but I have successfully created my own video chat web site.  It's not as fancy as Teams or Zoom or others yet but it works and it's free!",
+      image: '/images/3.jpg',
+      tags: ['AgoraIO','JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/videochat',
+    visit: 'https://hopeful-curie-c2d2f1.netlify.app/',
+    id: 0,
+  },  
+  {
     title: 'Student Study Portal',
     description:"This is a fully operational student portal with ability to keep track of homework, todos, look up youtube videos, books, wikipedia, run conversions on things like temperature, mass and length.  Give it a     whirl, though you will have to register a free account to log in to the site. ",
     image: '/images/todo.jpg',
     tags: ['Django', 'Heroku', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/student_portal',
     visit: 'https://cw-student-portal.herokuapp.com/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'My Flask Resume',
@@ -24,7 +33,7 @@ export const projects = [
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/newsApp',
     visit: 'https://cutlerwater-newsapp.herokuapp.com/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Dentist Website',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentalDjango',
     visit: 'https://dental-template.herokuapp.com/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Covid Tracker',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Gatsby App',
@@ -51,15 +60,6 @@ export const projects = [
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/web-warrior',
     visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 5,
-  },
-  {
-    title: 'My own video chat web site!',
-    description: "I am putting the blog on hold for now but I have successfully created my own video chat web site.  It's not as fancy as Teams or Zoom or others yet but it works and it's free!",
-      image: '/images/3.jpg',
-      tags: ['AgoraIO','JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/videochat',
-    visit: 'https://hopeful-curie-c2d2f1.netlify.app/',
     id: 6,
   },
   {
