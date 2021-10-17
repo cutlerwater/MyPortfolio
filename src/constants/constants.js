@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/3.jpg',
       tags: ['AgoraIO','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/videochat',
-    visit: 'https://hopeful-curie-c2d2f1.netlify.app/',
+    visit: 'https://cutlerwater-vchat.netlify.app/',
     id: 0,
   },  
   {
