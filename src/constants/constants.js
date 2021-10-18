@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },  
   {
+    title: 'My own video chat web site!',
+    description: "I have also built a standard chat app using React, HTML, a chatenging build, CSS and JS.  I do not have a way to create a user easily and I can only have 25 users max but it works well.",
+      image: '/images/chat.png',
+      tags: ['React','JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/ReactChat',
+    visit: 'https://cutlerwater-chat.netlify.app/',
+    id: 1,
+  }, 
+  {
     title: 'Student Study Portal',
     description:"This is a fully operational student portal with ability to keep track of homework, todos, look up youtube videos, books, wikipedia, run conversions on things like temperature, mass and length.  Give it a     whirl, though you will have to register a free account to log in to the site. ",
     image: '/images/todo.jpg',
     tags: ['Django', 'Heroku', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/student_portal',
     visit: 'https://cw-student-portal.herokuapp.com/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'My Flask Resume',
@@ -24,7 +33,7 @@ export const projects = [
     tags: ['Flask', 'Heroku', 'Python', 'HTML', 'JS', 'CSS'],
     source: 'https://github.com/cutlerwater/ResumeFlash/',
     visit: 'https://my-cutlerwaterresume.herokuapp.com/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'News and Weather',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/newsApp',
     visit: 'https://cutlerwater-newsapp.herokuapp.com/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Dentist Website',
@@ -42,7 +51,7 @@ export const projects = [
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentalDjango',
     visit: 'https://dental-template.herokuapp.com/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Covid Tracker',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 5,
+    id: 6,
   },
   {
     title: 'Gatsby App',
@@ -60,7 +69,7 @@ export const projects = [
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/web-warrior',
     visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 6,
+    id: 7,
   },
   {
     title: 'CSS Apps',
@@ -69,7 +78,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 7
+    id: 8
   }
 ];
 
