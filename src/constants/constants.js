@@ -54,13 +54,22 @@ export const projects = [
     id: 5,
   },
   {
+    title: 'Cutlerwater-IMDB',
+    description: "This is my own personal imdb like site that I built using ReactJS using a API key to retrieve the information.  WARNING!!! This site can search for just about ANY movie(s), so it may not be safe for work or kids, depending on what they search for.",
+    image: '/images/movieimdb.PNG',
+    tags: ['React', 'JavaScript', 'HTML'],
+    source: 'https://github.com/cutlerwater/imdb-react',
+    visit: 'https://cutlerwater-movieimdb.netlify.app/',
+    id: 6,
+  },
+  {
     title: 'Covid Tracker',
     description: "This is a Covid Tracking app I've built using React.JS.",
     image: '/images/covid.png',
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 6,
+    id: 7,
   },
   {
     title: 'Gatsby App',
@@ -69,7 +78,7 @@ export const projects = [
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/web-warrior',
     visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 7,
+    id: 8,
   },
   {
     title: 'CSS Apps',
@@ -78,7 +87,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 8
+    id: 9
   }
 ];
 
