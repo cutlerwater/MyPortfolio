@@ -37,11 +37,11 @@ export const projects = [
   },
   {
     title: 'News and Weather',
-    description:"I've combined my news and weather apps.",
+    description:"I've combined my news and weather apps, along with a BBC news page.",
     image: '/images/news.png',
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
-    source: 'https://github.com/cutlerwater/newsApp',
-    visit: 'https://cutlerwater-newsapp.herokuapp.com/',
+    source: 'https://github.com/cutlerwater/news-django',
+    visit: 'https://cutlerwater-news.herokuapp.com/',
     id: 4,
   },
   {
