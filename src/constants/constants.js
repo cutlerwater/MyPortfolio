@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },  
   {
-    title: 'My own video chat web site!',
+    title: 'My own standard chat web site!',
     description: "I have also built a standard chat app using React, HTML, a chatenging build, CSS and JS.  I do not have a way to create a user easily and I can only have 25 users max but it works well.",
       image: '/images/chat.png',
       tags: ['React','JavaScript', 'CSS', 'HTML'],
