@@ -81,13 +81,24 @@ export const projects = [
     id: 8,
   },
   {
+    title: 'Skeleton Website Designs',
+    description: "I put together 10 website designs covering 10 different areas ranging from shoes to technology and more.  They don't have a lot of purpose at this time but could serve as starter projects later on. ",
+      image: '/images/img-3.jpg',
+      tags: ['JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/automotive-car-design',
+    visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/', 
+    name: 'Automotive Car Design',
+    id: 8,
+  },
+
+  {
     title: 'CSS Apps',
     description: "This is a collection of small CSS projects ",
       image: '/images/CSSProjects.PNG',
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 9
+    id: 10
   }
 ];
 
