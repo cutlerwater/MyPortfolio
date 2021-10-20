@@ -86,9 +86,10 @@ export const projects = [
       image: '/images/img-3.jpg',
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/automotive-car-design',
-    visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/', 
-    name: 'Automotive Car Design',
-    id: 8,
+    visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/',
+    source: 'https://github.com/cutlerwater/fashion-web-design',
+    visit: 'https://cutlerwater-fasion-webdesign.netlify.app/', 
+    id: 9,
   },
 
   {
