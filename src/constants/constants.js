@@ -87,8 +87,6 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/automotive-car-design',
     visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/',
-    source: 'https://github.com/cutlerwater/fashion-web-design',
-    visit: 'https://cutlerwater-fasion-webdesign.netlify.app/', 
     id: 9,
   },
 
@@ -99,6 +97,15 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CSS-in-28-days',
     visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
+    id: 10
+  },
+  {
+    title: 'Coming soon... A firebase app built with a new javascript library for me, Vue.JS.  Should be interesting.',
+    description: "This will hopefully be a deployed blog",
+      image: '/images/comingsoon.jpg',
+      tags: ['VueJS', 'Firebase', 'JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/FirebaseBlog',
+    visit: '',
     id: 10
   }
 ];
