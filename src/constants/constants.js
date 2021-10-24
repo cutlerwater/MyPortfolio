@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: '3d Rendering of a landscape',
+    description: "I've put together a small project showing the power of three.js.  There's a lot of possibilities here.",
+      image: '/images/texture.jpg',
+      tags: ['Three.JS','JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/3dterrain',
+    visit: 'https://3dterrain-cutlerwater.netlify.app/',
+    id: 1,
+  },
+  {
     title: 'My own video chat web site!',
     description: "I am putting the blog on hold for now but I have successfully created my own video chat web site.  It's not as fancy as Teams or Zoom or others yet but it works and it's free!",
       image: '/images/3.jpg',
       tags: ['AgoraIO','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/videochat',
     visit: 'https://cutlerwater-vchat.netlify.app/',
-    id: 1,
+    id: 2,
   },  
   {
     title: 'My own standard chat web site!',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['React','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/ReactChat',
     visit: 'https://cutlerwater-chat.netlify.app/',
-    id: 2,
+    id: 3,
   }, 
   {
     title: 'Student Study Portal',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['Django', 'Heroku', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/student_portal',
     visit: 'https://cw-student-portal.herokuapp.com/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'My Flask Resume',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['Flask', 'Heroku', 'Python', 'HTML', 'JS', 'CSS'],
     source: 'https://github.com/cutlerwater/ResumeFlash/',
     visit: 'https://my-cutlerwaterresume.herokuapp.com/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'News and Weather',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/news-django',
     visit: 'https://cutlerwater-news.herokuapp.com/',
-    id: 5,
+    id: 6,
   },
   {
     title: 'Dentist Website',
@@ -60,7 +69,7 @@ export const projects = [
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentalDjango',
     visit: 'https://dental-template.herokuapp.com/',
-    id: 6,
+    id: 7,
   },
   {
     title: 'Cutlerwater-IMDB',
@@ -69,7 +78,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/imdb-react',
     visit: 'https://cutlerwater-movieimdb.netlify.app/',
-    id: 7,
+    id: 8,
   },
   {
     title: 'Covid Tracker',
@@ -78,7 +87,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Gatsby App',
@@ -87,7 +96,7 @@ export const projects = [
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/web-warrior',
     visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 9,
+    id: 10,
   },
   {
     title: 'Skeleton Website Designs',
@@ -96,18 +105,8 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/automotive-car-design',
     visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/',
-    id: 10,
-  },
-
-  {
-    title: 'CSS Apps',
-    description: "This is a collection of small CSS projects ",
-      image: '/images/CSSProjects.PNG',
-      tags: ['JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/CSS-in-28-days',
-    visit: 'https://cutlerwateritblog.com/WebProjects/CSSProjects/29daysofCSS/index.html',
-    id: 11
-  }
+    id: 11,
+  },  
   
 ];
 
