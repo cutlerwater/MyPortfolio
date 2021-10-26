@@ -106,7 +106,16 @@ export const projects = [
     source: 'https://github.com/cutlerwater/automotive-car-design',
     visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/',
     id: 11,
-  },  
+  }, 
+  {
+    title: 'Beautiful curves website',
+    description: "I couldn't fully deploy a 3d project I was working on for a while and since I vowed to myself to deploy something, I deployed this simple html/css project with a cool template with curves in it.",
+      image: '/images/curves.png',
+      tags: ['JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/curves',
+    visit: 'https://curves-cutlerwater.netlify.app/',
+    id: 12,
+  }, 
   
 ];
 
