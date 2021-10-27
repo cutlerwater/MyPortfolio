@@ -10,12 +10,21 @@ export const projects = [
   },
   {
     title: 'Quizzes built with ReactJS',
-    description: "I've built a quiz app that has 10 questions based on computers.  I can change the category rather easily as well as other options such as difficulty",
+    description: "I've built a quiz app that has 10 questions based on computers.  I can change the category rather easily as well as other options such as difficulty.  I've also built other quiz subjects like politics, history, math, sports and celebrities",
       image: '/images/cqquiz.PNG',
       tags: ['React', 'APIs', 'Typescript', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/react-quizapp',
     visit: 'https://cutlerwater-quizzes.netlify.app/',
     id: 1,
+  },
+  {
+    title: '3d Particles',
+    description: "I've put together another small project showing the power of three.js.  This one has rotating stars and an animated headline and paragraph",
+      image: '/images/3js.jpg',
+      tags: ['Three.JS','JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/particlesproject',
+    visit: 'https://cutlerwater-particlesproject.netlify.app/',
+    id: 2,
   },
   {
     title: '3d Rendering of a landscape',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['Three.JS','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/3dterrain',
     visit: 'https://3dterrain-cutlerwater.netlify.app/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'My own video chat web site!',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['AgoraIO','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/videochat',
     visit: 'https://cutlerwater-vchat.netlify.app/',
-    id: 3,
+    id: 4,
   },  
   {
     title: 'My own standard chat web site!',
@@ -42,7 +51,7 @@ export const projects = [
       tags: ['React','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/ReactChat',
     visit: 'https://cutlerwater-chat.netlify.app/',
-    id: 4,
+    id: 5,
   }, 
   {
     title: 'Student Study Portal',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['Django', 'Heroku', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/student_portal',
     visit: 'https://cw-student-portal.herokuapp.com/',
-    id: 5,
+    id: 6,
   },
   {
     title: 'My Flask Resume',
@@ -60,7 +69,7 @@ export const projects = [
     tags: ['Flask', 'Heroku', 'Python', 'HTML', 'JS', 'CSS'],
     source: 'https://github.com/cutlerwater/ResumeFlash/',
     visit: 'https://my-cutlerwaterresume.herokuapp.com/',
-    id: 6,
+    id: 7,
   },
   {
     title: 'News and Weather',
@@ -69,7 +78,7 @@ export const projects = [
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/news-django',
     visit: 'https://cutlerwater-news.herokuapp.com/',
-    id: 7,
+    id: 8,
   },
   {
     title: 'Dentist Website',
@@ -78,7 +87,7 @@ export const projects = [
       tags: ['Django', 'Python', 'HTML', 'CSS'],
     source: 'https://github.com/cutlerwater/DentalDjango',
     visit: 'https://dental-template.herokuapp.com/',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Cutlerwater-IMDB',
@@ -87,7 +96,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/imdb-react',
     visit: 'https://cutlerwater-movieimdb.netlify.app/',
-    id: 9,
+    id: 10,
   },
   {
     title: 'Covid Tracker',
@@ -96,7 +105,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'HTML'],
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
-    id: 10,
+    id: 11,
   },
   {
     title: 'Gatsby App',
@@ -105,7 +114,7 @@ export const projects = [
       tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/web-warrior',
     visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 11,
+    id: 12,
   },
   {
     title: 'Skeleton Website Designs',
@@ -114,7 +123,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/automotive-car-design',
     visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/',
-    id: 12,
+    id: 13,
   }, 
   {
     title: 'Beautiful curves website',
@@ -123,7 +132,7 @@ export const projects = [
       tags: ['JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/curves',
     visit: 'https://curves-cutlerwater.netlify.app/',
-    id: 13,
+    id: 14,
   }, 
   
 ];
