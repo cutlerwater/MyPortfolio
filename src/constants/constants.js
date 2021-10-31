@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/pumpkin.jpg',
       tags: [ 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/Haloweenfun',
-    visit: 'https://fcutlerwater-halloweenfun.netlify.app',
+    visit: 'https://cutlerwater-halloweenfun.netlify.app/',
     id: 0,
   },
   {
