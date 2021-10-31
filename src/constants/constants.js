@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Halloween fun',
+    description: "Just a fun little halloween web page with animation and youtube embeded music",
+      image: '/images/pumpkin.jpg',
+      tags: [ 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/Haloweenfun',
+    visit: 'https://fcutlerwater-halloweenfun.netlify.app',
+    id: 0,
+  },
+  {
     title: 'Firebase Vue Blog',
     description: "I did it!  I completed the long journey of creating a full blog application and actually deploying it successfully!",
       image: '/images/stock-4.jpg',
       tags: ['VueJS', 'Firebase', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/FirebaseBlog',
     visit: 'https://fireblogscutlerwater.web.app/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Quizzes built with ReactJS',
@@ -15,7 +24,7 @@ export const projects = [
       tags: ['React', 'APIs', 'Typescript', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/react-quizapp',
     visit: 'https://cutlerwater-quizzes.netlify.app/',
-    id: 1,
+    id: 2,
   },
   {
     title: '3d Portfolio',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['Three.JS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/threejsportfolio',
     visit: 'https://cutlerwater-3dprofile.netlify.app/',
-    id: 2,
+    id: 3,
   },
   {
     title: '3d Particles',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['Three.JS','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/particlesproject',
     visit: 'https://cutlerwater-particlesproject.netlify.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: '3d Rendering of a landscape',
