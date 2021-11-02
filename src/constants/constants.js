@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Halloween fun',
-    description: "Just a fun little halloween web page with animation and youtube embeded music",
-      image: '/images/pumpkin.jpg',
-      tags: [ 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/Haloweenfun',
-    visit: 'https://cutlerwater-halloweenfun.netlify.app/',
+    title: 'Responsive themes fun',
+    description: "Just a fun little halloween and Christmas web page",
+      image: '/images/nativity.jpg',
+      tags: [ 'Responsive CSS', 'Vanilla Javascript' 'HTML'],
+    source: 'https://github.com/cutlerwater/responsivethemes',
+    visit: 'https://cutlerwater-funresponsivethemes.netlify.app/',
     id: 0,
   },
   {
