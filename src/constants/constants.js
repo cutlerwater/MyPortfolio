@@ -3,7 +3,7 @@ export const projects = [
     title: 'Responsive themes fun',
     description: "Just a fun little halloween and Christmas web page",
       image: '/images/nativity.jpg',
-      tags: [ 'Responsive CSS', 'Vanilla Javascript' 'HTML'],
+      tags: [ 'Responsive CSS', 'Vanilla Javascript', 'HTML'],
     source: 'https://github.com/cutlerwater/responsivethemes',
     visit: 'https://cutlerwater-funresponsivethemes.netlify.app/',
     id: 0,
