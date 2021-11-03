@@ -38,7 +38,7 @@ export const projects = [
   {
     title: '3d Portfolio',
     description: "I've put together a rather cool 3d based portfolio using more Three JS and some awesome effects",
-      image: '/images/AISProfile.jpg',
+      image: '/images/me_pumpkin.jpg',
       tags: ['Three.JS', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/threejsportfolio',
     visit: 'https://cutlerwater-3dprofile.netlify.app/',
