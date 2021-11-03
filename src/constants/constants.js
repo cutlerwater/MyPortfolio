@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Exercise tracker',
-    description: "Just a fun little halloween and Christmas web page",
+    description: "I'm actually in the middle of building this new workout tracker using VueJS and something kind of new to me, Supabase, an alternative to Firebase.  Should be cool if/when it works.",
       image: '/images/weight-lifting.webp',
       tags: [ 'VUE JS', 'Supabase', ,'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/exercisetracker',
