@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Quizzes built with ReactJS',
-    description: "I've built a quiz app that has 10 questions based on computers.  I can change the category rather easily as well as other options such as difficulty.  I've also built other quiz subjects like politics, history, math, sports and celebrities",
+    description: "I've built a quiz app based on several different categories and have changed the difficulty level of the quizzes.  I can change the category rather easily as well as other options such as difficulty.  I've also built other quiz subjects like politics, history, math, sports and celebrities",
       image: '/images/cqquiz.PNG',
       tags: ['React', 'APIs', 'Typescript', 'JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/react-quizapp',
