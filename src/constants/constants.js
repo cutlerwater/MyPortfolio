@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Mediation time',
+    description: "Just a quick little meditation app that you can use to reduce stress",
+      image: '/images/bg.jpg',
+      tags: [ 'CSS', 'Vanilla Javascript', 'HTML'],
+    source: 'https://github.com/cutlerwater/MeditationApp',
+    visit: 'https://cutlerwater-meditationapp.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Firebase Vue Blog',
     description: "I did it!  I completed the long journey of creating a full blog application and actually deploying it successfully!",
       image: '/images/stock-4.jpg',
