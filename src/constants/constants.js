@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Exercise tracker',
+    description: "Just a fun little halloween and Christmas web page",
+      image: '/images/weight-lifting.webp',
+      tags: [ 'VUE JS', 'Supabase', ,'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/exercisetracker',
+    visit: 'https://cutlerwater-exercisetracker.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Responsive themes fun',
     description: "Just a fun little halloween and Christmas web page",
       image: '/images/nativity.jpg',
