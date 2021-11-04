@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Exercise tracker',
-    description: "I'm actually in the middle of building this new workout tracker using VueJS and something kind of new to me, Supabase, an alternative to Firebase.  Should be cool if/when it works.",
-      image: '/images/weight-lifting.webp',
+    title: 'Cigar diary',
+    description: "I'm actually in the middle of building this new cigar diary to help keep track of cigars using VueJS and something kind of new to me, Supabase, an alternative to Firebase.  Should be cool if/when it works.",
+      image: '/images/cigarpic.jpg',
       tags: [ 'VUE JS', 'Supabase', ,'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/exercisetracker',
-    visit: 'https://cutlerwater-exercisetracker.netlify.app/',
+    source: 'https://github.com/cutlerwater/cigardiary',
+    visit: 'https://cutlerwater-cigardiary.netlify.app',
     id: 0,
   },
   {
