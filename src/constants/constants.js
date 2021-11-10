@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Christmas countdown',
+    description: "Here's something fun and easy, a Christmas countdown page.",
+      image: '/images/xmas.PNG',
+      tags: [ 'Vanilla Javascript', ,'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/XmasCountdown',
+    visit: 'https://cutlerwater-xmascountdown.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Workout tracker',
     description: "I finished building a workout/exercise tracker. It works but you would need to register and log in to record your workouts.  You would also have to simply verify the register via email.",
       image: '/images/weight-lifting.webp',
