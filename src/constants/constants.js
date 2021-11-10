@@ -108,6 +108,15 @@ export const projects = [
     id: 8,
   },
   {
+    title: '3d flex grid layout',
+    description:"With the assistance of Kevin Powell's youtube channel, I put together a pretty cool page with a 3d flex grid layout.  The links don't work currently.",
+    image: '/images/3dlayout.png',
+    tags: ['HTML', '3D CSS'],
+    source: 'https://github.com/cutlerwater/3dflexgrid/',
+    visit: 'https://cutlerwater-3dflexgrid-layout.netlify.app/',
+    id: 8,
+  },
+  {
     title: 'News and Weather',
     description:"I've combined my news and weather apps, along with a BBC news page.",
     image: '/images/news.png',
