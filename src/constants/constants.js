@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Cryptocurrency app',
+    description: "Here's something useful, a cryptocurrency app that tracks all the different cryptocurrencies and relates the news about them. I'm trying to educate myself about cryptocurrencies and I figured this would be a great start.",
+      image: '/images/crypto.jpg',
+      tags: [ 'ReactJS', 'RAPIDAPI', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/cryptoapp',
+    visit: 'https://cutlerwater-cryptoapp.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Workout tracker',
     description: "I finished building a workout/exercise tracker. It works but you would need to register and log in to record your workouts.  You would also have to simply verify the register via email.",
       image: '/images/weight-lifting.webp',
