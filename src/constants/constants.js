@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Christmas countdown',
     description: "Here's something fun and easy, a Christmas countdown page.",
-      image: '/images/xmas.PNG',
+      image: '/images/xmaslights.png',
       tags: [ 'Vanilla Javascript', ,'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/XmasCountdown',
     visit: 'https://cutlerwater-xmascountdown.netlify.app/',
