@@ -66,9 +66,9 @@ export const projects = [
     title: '3d Portfolio',
     description: "I've put together a rather cool 3d based portfolio using more Three JS and some awesome effects",
       image: '/images/me_pumpkin.jpg',
-      tags: ['Three.JS', 'ReactJS', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/lavaanimation',
-    visit: 'https://cutlerwater-lavaanimation.netlify.app/',
+      tags: ['Three.JS', 'JavaScript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/threejsportfolio',
+    visit: 'https://cutlerwater-3dprofile.netlify.app/',
     id: 3,
   },
   {
@@ -82,11 +82,11 @@ export const projects = [
   },
   {
     title: '3d Lava Animation Page',
-    description: "I've put together another small 3d animation page, this time showing a cool Lava animation.",
-      image: '/images/3js.jpg',
+    description: "I've put together another small 3d animation page, this time showing a cool (or hot) Lava animation",
+      image: '/images/lava.png',
       tags: ['Three.JS','JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/particlesproject',
-    visit: 'https://cutlerwater-particlesproject.netlify.app/',
+    source: 'https://github.com/cutlerwater/lavaanimation',
+    visit: 'https://cutlerwater-lavaanimation.netlify.app',
     id: 4,
   },
   {
