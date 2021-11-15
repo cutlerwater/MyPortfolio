@@ -18,12 +18,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Workout tracker',
-    description: "I finished building a workout/exercise tracker. It works but you would need to register and log in to record your workouts.  You would also have to simply verify the register via email.",
+    title: 'Exercise/gym Websites',
+    description: "I'm consolidating two exercise related sites into one.  The first will be my new responsive html site that a public gym could use and the second is my workout tracker.  There is a link on both to go back and forth.  Check them out!",
       image: '/images/weight-lifting.webp',
-      tags: [ 'VUE JS', 'Supabase', ,'CSS', 'HTML'],
+      tags: [ 'VUE JS', 'Supabase', ,'CSS', 'HTML', 'Vanilla Javascript'],
     source: 'https://github.com/cutlerwater/workouttracker',
-    visit: 'https://cutlerwater-exercisetracker.netlify.app/',
+    visit: 'https://cutlerwater-gym-website.netlify.app/',
     id: 0,
   },
   {
