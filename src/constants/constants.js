@@ -27,6 +27,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Simple budget app',
+    description: "I created a simple budget app that will allow you to record transactions. ",
+      image: '/images/budget.png',
+      tags: [ 'Vanilla Javascript', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/budgetapp',
+    visit: 'https://cutlerwater-budgetapp.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Responsive themes fun',
     description: "Just a fun little halloween and Christmas web page",
       image: '/images/nativity.jpg',
