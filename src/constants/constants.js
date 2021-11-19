@@ -153,9 +153,9 @@ export const projects = [
     id: 8,
   },
   {
-    title: 'News and Weather',
-    description:"I've combined my news and weather apps, along with a BBC news page.",
-    image: '/images/news.png',
+    title: 'A new news site is coming',
+    description:"My first news site works and is still available until I can replace with a better version, which I'm currently working on.",
+    image: '/images/comingsoon.jpg',
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/news-django',
     visit: 'https://cutlerwater-news.herokuapp.com/',
