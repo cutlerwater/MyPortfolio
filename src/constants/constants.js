@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Starbucks cloned site',
+    description: "I was able to clone the landing page for Starbucks",
+      image: '/images/logo.svg',
+      tags: [ 'Vanilla Javascript', ,'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/starbuckssite',
+    visit: 'https://cutlerwater-starbucksclone.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Cryptocurrency app',
     description: "Here's something useful, a cryptocurrency app that tracks all the different cryptocurrencies and relates the news about them. I'm trying to educate myself about cryptocurrencies and I figured this would be a great start.  The news part isn't functioning yet though.",
       image: '/images/crypto.jpg',
