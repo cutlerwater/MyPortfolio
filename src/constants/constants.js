@@ -153,15 +153,6 @@ export const projects = [
     id: 9,
   },
   {
-    title: 'Dentist Website',
-    description: "Full Dental website for making appointments using Django, HTML, JavaScript and CSS. It was down temporarily but it is back!",
-      image: '/images/dental-care.png',
-      tags: ['Django', 'Python', 'HTML', 'CSS'],
-    source: 'https://github.com/cutlerwater/DentalDjango',
-    visit: 'https://dental-template.herokuapp.com/',
-    id: 10,
-  },
-  {
     title: 'Cutlerwater-IMDB',
     description: "This is my own personal imdb like site that I built using ReactJS using a API key to retrieve the information.  WARNING!!! This site can search for just about ANY movie(s), so it may not be safe for work or kids, depending on what they search for.",
     image: '/images/movieimdb.PNG',
