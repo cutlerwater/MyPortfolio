@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Cryptocurrency app',
-    description: "Here's something useful, a cryptocurrency app that tracks all the different cryptocurrencies and relates the news about them. I'm trying to educate myself about cryptocurrencies and I figured this would be a great start.  The news part isn't functioning yet though.",
+    description: "Here's something useful, a cryptocurrency app that tracks all the different cryptocurrencies and relates the news about them. I'm trying to educate myself about cryptocurrencies and I figured this would be a great start.  The news part isn't functioning yet though. There's also a link to my budget app.",
       image: '/images/crypto.jpg',
       tags: [ 'ReactJS', 'RAPIDAPI', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/cryptoapp',
@@ -33,24 +33,6 @@ export const projects = [
       tags: [ 'VUE JS', 'Supabase', ,'CSS', 'HTML', 'Vanilla Javascript'],
     source: 'https://github.com/cutlerwater/workouttracker',
     visit: 'https://cutlerwater-gym-website.netlify.app/',
-    id: 0,
-  },
-  {
-    title: 'Simple budget app',
-    description: "I created a simple budget app that will allow you to record transactions. ",
-      image: '/images/budget.png',
-      tags: [ 'Vanilla Javascript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/budgetapp',
-    visit: 'https://cutlerwater-budgetapp.netlify.app/',
-    id: 0,
-  },
-  {
-    title: 'Responsive themes fun',
-    description: "Just a fun little halloween and Christmas web page",
-      image: '/images/nativity.jpg',
-      tags: [ 'Responsive CSS', 'Vanilla Javascript', 'HTML'],
-    source: 'https://github.com/cutlerwater/responsivethemes',
-    visit: 'https://cutlerwater-funresponsivethemes.netlify.app/',
     id: 0,
   },
   {
