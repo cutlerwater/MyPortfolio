@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Real Estate Site',
-    description: "I am currently working on a real estate site using Next.JS, React.JS, HTML, CSS and RAPIDAPI.  Stay tuned.",
+    description: "It only took two full attempts and several days worth of figuring it out but I have finished on a real estate site using Next.JS, React.JS, HTML, CSS and RAPIDAPI. It won't search nearby stuff and it can't really be used in a production environment at this stage.",
       image: '/images/house.jpg',
       tags: [ 'NextJS', 'ReactJS', 'RAPID API', 'Vercel Hosting', 'CSS', 'HTML'],
       source: 'https://github.com/cutlerwater/cwrealestate',
