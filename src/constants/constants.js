@@ -18,6 +18,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Real Estate Site',
+    description: "I am currently working on a real estate site using Next.JS, React.JS, HTML, CSS and RAPIDAPI.  Stay tuned.",
+      image: '/images/house.jpg',
+      tags: [ 'NextJS', 'ReactJS', 'RAPID API', 'Vercel Hosting', 'CSS', 'HTML'],
+      source: 'https://github.com/cutlerwater/cwrealestate',
+    visit: 'https://cutlerwater-realty-git-main-cutlerwater.vercel.app/',
+    id: 0,
+  },
+  {
     title: 'Cryptocurrency app',
     description: "Here's something useful, a cryptocurrency app that tracks all the different cryptocurrencies and relates the news about them. I'm trying to educate myself about cryptocurrencies and I figured this would be a great start.  The news part isn't functioning yet though. There's also a link to my budget app.",
       image: '/images/crypto.jpg',
