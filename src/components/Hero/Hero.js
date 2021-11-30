@@ -13,7 +13,7 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         The purpose of Cutlerwater IT Blog is to assist new or experienced web developers take their own skills to higher level and master their own applications and web projects.  
-        I am only using it to further my web development skills and to just see what I can do.  This is not currently meant to be a side gig to make money.  It is a way to show off but to learn and to 
+        I am only using it to further my web development skills and to just see what I can do.  This is not currently meant to be a side gig to make money.  It is a way to show off, but also to learn and to 
         put my skills into some kind of action.
       </SectionText>
       <Button onClick={() => window.location = 'https://youtube.com'}>Learn More</Button>
