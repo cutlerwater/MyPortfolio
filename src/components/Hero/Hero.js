@@ -16,6 +16,10 @@ const Hero = (props) => (
         I am only using it to further my web development skills and to just see what I can do.  This is not currently meant to be a side gig to make money.  It is a way to show off, but also to learn and to 
         put my skills into some kind of action.
       </SectionText>
+      <SectionText>
+        Some other ideas I have to try to implement are a search engine (coming soon), a music player, more 3d fun stuff, more CSS work, an E-commerce (tried this several times already) site, an updated news site
+      , an Instagram type clone, a netflix clone, etc...
+      </SectionText>
       <Button onClick={() => window.location = 'https://youtube.com'}>Learn More</Button>
     </LeftSection>
   </Section>
