@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/search.png',
       tags: [ 'React JS', 'Tailwind CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/CutlerwaterSearch',
-    visit: 'https://cutlerwater-search.netlify.app/news',
+    visit: 'https://cutlerwater-search.netlify.app',
     id: 0,
   },
   {
