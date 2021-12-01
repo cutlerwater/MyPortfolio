@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Cutlerwater Search Engine',
+    description: "I was able to create my own search engine!",
+      image: '/images/search.png',
+      tags: [ 'React JS', 'Tailwind CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/CutlerwaterSearch',
+    visit: 'https://cutlerwater-search.netlify.app/news',
+    id: 0,
+  },
+  {
     title: 'Starbucks cloned site',
     description: "I was able to clone the landing page for Starbucks",
       image: '/images/logo.svg',
