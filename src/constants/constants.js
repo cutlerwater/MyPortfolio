@@ -18,6 +18,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Nebula Cloud',
+    description: "Another cool little project using Three JS.",
+      image: '/images/nebula.png',
+      tags: [ 'Three JS', ,'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/NebulaCloud',
+    visit: 'https://cutlerwater-nebulacloud.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Cutlerwater Search Engine',
     description: "I was able to create my own search engine!",
       image: '/images/search.png',
