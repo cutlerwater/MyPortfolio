@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Star Wars effect',
+    description: "Short and sweet and oh so cool.  A Star Wars effect built in under an hour.  I'd like to add some scrolling text like the movie has in the beginning.",
+      image: '/images/starwars.png',
+      tags: [ 'Three JS', ,'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/starwars',
+    visit: 'https://cutlerwater-starwarseffect.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Cutlerwater Search Engine',
     description: "I was able to create my own search engine!",
       image: '/images/search.png',
@@ -28,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Real Estate Site',
-    description: "It only took two full attempts and several days worth of figuring it out but I have finished on a real estate site using Next.JS, React.JS, HTML, CSS and RAPIDAPI. It won't search nearby stuff and it can't really be used in a production environment at this stage.",
+    description: "It only took two full attempts and several days worth of figuring it out but I have finished a real estate site using Next.JS, React.JS, HTML, CSS and RAPIDAPI. It won't search nearby stuff and it can't really be used in a production environment at this stage.",
       image: '/images/house.jpg',
       tags: [ 'NextJS', 'ReactJS', 'RAPID API', 'Vercel Hosting', 'CSS', 'HTML'],
       source: 'https://github.com/cutlerwater/cwrealestate',
