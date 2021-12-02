@@ -27,6 +27,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: '3d Orb',
+    description: "Now this is even cooler I think.  Using threeJS's magic, I created a 3d orbital view of St. Peter's Basilica in Rome.  To use it just click on the orb and move the mouse around and you'll see what I mean.",
+      image: '/images/orb.png',
+      tags: [ 'Three JS', ,'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/skybox',
+    visit: 'https://cutlerwater-3dmirror.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Cutlerwater Search Engine',
     description: "I was able to create my own search engine!",
       image: '/images/search.png',
