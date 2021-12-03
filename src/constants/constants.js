@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'It\'s snowing!',
+    description: "Another simple page with a cool snowing effect",
+      image: '/images/snowbg.jpg',
+      tags: [ 'SASS', 'HTML'],
+    source: 'https://github.com/cutlerwater/snoweffect',
+    visit: 'https://cutlerwater-itssnowing.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Star Wars effect',
     description: "Short and sweet and oh so cool.  A Star Wars effect built in under an hour.  I'd like to add some scrolling text like the movie has in the beginning.",
       image: '/images/starwars.png',
