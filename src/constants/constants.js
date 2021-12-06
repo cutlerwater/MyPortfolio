@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Spotify Clone',
+    description: "In the process of building a clone of Spotify.  We'll see how it goes.",
+      image: '/images/Spotify.jpg',
+      tags: [ 'ReactJS', 'FireBase', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/spotifyclone',
+    visit: 'https://cutlerwater-spotifyclone.netlify.app',
+    id: 0,
+  },
+  {
     title: 'It\'s snowing!',
     description: "Another simple page with a cool snowing effect",
       image: '/images/snowbg.jpg',
