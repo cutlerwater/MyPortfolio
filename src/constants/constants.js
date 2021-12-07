@@ -9,8 +9,17 @@ export const projects = [
     id: 0,
   },
   {
+    title: '3d Worlds',
+    description: "I've really outdone myself now with several 3d worlds using ThreeJS and Skybox pictures.  Some really fun stuff here too.  I've recently added quite a few more new worlds and categorized them.",
+      image: '/images/eclipse.png',
+      tags: [ 'ThreeJS', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/3dworld',
+    visit: 'https://3dworld-cutlerwater.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'Spotify Clone',
-    description: "In the process of building a clone of Spotify.  We'll see how it goes.",
+    description: "In the process of building a clone of Spotify.  The link isn't working yet.  Stay tuned.",
       image: '/images/Spotify.jpg',
       tags: [ 'ReactJS', 'FireBase', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/spotifyclone',
@@ -35,15 +44,7 @@ export const projects = [
     visit: 'https://cutlerwater-itsraining.netlify.app/',
     id: 0,
   },
-  {
-    title: '3d Worlds',
-    description: "I've really outdone myself now with several 3d worlds using ThreeJS and Skybox pictures.  Some really fun stuff here too.  I've recently added quite a few more new worlds and categorized them.",
-      image: '/images/eclipse.png',
-      tags: [ 'ThreeJS', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/3dworld',
-    visit: 'https://3dworld-cutlerwater.netlify.app/',
-    id: 0,
-  },
+  
   {
     title: 'Star Wars effect',
     description: "Short and sweet and oh so cool.  A Star Wars effect built in under an hour.  I'd like to add some scrolling text like the movie has in the beginning.",
