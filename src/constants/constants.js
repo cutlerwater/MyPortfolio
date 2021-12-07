@@ -37,9 +37,9 @@ export const projects = [
   },
   {
     title: '3d Worlds',
-    description: "I've really outdone myself now with several 3d worlds using ThreeJS and Skybox pictures.  Some really fun stuff here too.",
+    description: "I've really outdone myself now with several 3d worlds using ThreeJS and Skybox pictures.  Some really fun stuff here too.  I've recently added quite a few more new worlds and categorized them.",
       image: '/images/eclipse.png',
-      tags: [ 'TheeJS', 'CSS', 'HTML'],
+      tags: [ 'ThreeJS', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/3dworld',
     visit: 'https://3dworld-cutlerwater.netlify.app/',
     id: 0,
