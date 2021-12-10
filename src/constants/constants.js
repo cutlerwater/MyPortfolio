@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Christmas countdown',
-    description: "Here's something fun and easy, a Christmas countdown page.",
+    description: "Here's something fun and easy, a Christmas countdown page. There's also a new advent calendar and you can access it through the countdown page.",
       image: '/images/xmaslights.png',
       tags: [ 'Vanilla Javascript', ,'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/XmasCountdown',
@@ -18,10 +18,10 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Spotify Clone',
-    description: "In the process of building a clone of Spotify.  The link isn't working yet.  Stay tuned.",
-      image: '/images/Spotify.jpg',
-      tags: [ 'ReactJS', 'FireBase', 'CSS', 'HTML'],
+    title: 'All kinds of clones',
+    description: "In the process of building clones of Spotify, LinkedIn, Amazon, Spotify, Tinder, and others.",
+      image: '/images/comingsoon.jpg',
+      tags: [ 'ReactJS', 'TailwindCSS', 'Redux', 'NextJS', 'FireBase', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/spotifyclone',
     visit: 'https://cutlerwater-spotifyclone.netlify.app',
     id: 0,
