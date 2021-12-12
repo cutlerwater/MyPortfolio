@@ -18,6 +18,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'LinkedIn Clone',
+    description: "I've built the first clone, of LinkedIn.  It's not the full site with the jobs and network but the login functionality works well.  I hope to build the rest but who knows when.",
+      image: 'https://static.cdn.wisestamp.com/wp-content/uploads/2020/02/1024px-Linkedin_icon.svg.png',
+      tags: [ 'ReactJS', 'Redux', 'FireBase', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/linkedinclone',
+    visit: 'https://linkedin-clone-77ebe.web.app/',
+    id: 0,
+  },
+  {
     title: 'All kinds of clones',
     description: "In the process of building clones of Spotify, LinkedIn, Amazon, Spotify, Tinder, and others.",
       image: '/images/comingsoon.jpg',
