@@ -209,7 +209,7 @@ export const projects = [
   },  
   {
     title: 'My own standard chat web site!',
-    description: "I have also built a standard chat app using React, HTML, a chatenging build, CSS and JS.  I do not have a way to create a user easily and I can only have 25 users max but it works well.",
+    description: "I have also built a standard chat app using React, HTML, a challenging build, CSS and JS.  I do not have a way to create a user easily and I can only have 25 users max but it works well.",
       image: '/images/chat.png',
       tags: ['React','JavaScript', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/ReactChat',
@@ -244,8 +244,8 @@ export const projects = [
     id: 8,
   },
   {
-    title: 'A new news site is coming',
-    description:"My first news site works and is still available until I can replace with a better version, which I'm currently working on.",
+    title: 'Clean Portfolio',
+    description:"I developed a new portfolio website.  This one is not as flashy as my 3d portfolio but it is very clean.",
     image: '/images/comingsoon.jpg',
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/news-django',
