@@ -246,7 +246,7 @@ export const projects = [
   {
     title: 'Clean Portfolio',
     description:"I developed a new portfolio website.  This one is not as flashy as my 3d portfolio but it is very clean.",
-    image: '/images/comingsoon.jpg',
+    image: '/images/cleaner.png',
     tags: ['Django', 'Heroku', 'Python', 'API', 'CSS'],
     source: 'https://github.com/cutlerwater/news-django',
     visit: 'https://cutlerwater-news.herokuapp.com/',
