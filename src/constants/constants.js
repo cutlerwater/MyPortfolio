@@ -269,34 +269,9 @@ export const projects = [
     source: 'https://github.com/cutlerwater/CovidTracker',
     visit: 'https://cutlerwater-covid-tracker.netlify.app/',
     id: 12,
-  },
-  {
-    title: 'Gatsby App',
-    description: "Another profile site completed but this one is built using Gatsby.JS, GraphQL and markdown pages",
-      image: '/images/Gatsby_Contentful.jpg',
-      tags: ['GatsbyJS', 'ReactJS', 'JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/web-warrior',
-    visit: 'https://cutlerwater-gatsby-profile.netlify.app/',
-    id: 13,
-  },
-  {
-    title: 'Skeleton Website Designs',
-    description: "I put together 10 website designs covering 10 different areas ranging from shoes to technology and more.  They don't have a lot of purpose at this time but could serve as starter projects later on. ",
-      image: '/images/img-3.jpg',
-      tags: ['JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/automotive-car-design',
-    visit: 'https://cutlerwater-automotive-car-webdesign.netlify.app/',
-    id: 14,
-  }, 
-  {
-    title: 'Beautiful curves website',
-    description: "I couldn't fully deploy a 3d project I was working on for a while and since I vowed to myself to deploy something, I deployed this simple html/css project with a cool template with curves in it.",
-      image: '/images/curves.png',
-      tags: ['JavaScript', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/curves',
-    visit: 'https://curves-cutlerwater.netlify.app/',
-    id: 15,
-  }, 
+  }
+  
+  
   
 ];
 
