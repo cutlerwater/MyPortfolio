@@ -18,12 +18,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'LinkedIn Clone',
-    description: "I've built the first clone, of LinkedIn.  It's not the full site with the jobs and network but the login functionality works well.  I hope to build the rest but who knows when.",
-      image: 'https://static.cdn.wisestamp.com/wp-content/uploads/2020/02/1024px-Linkedin_icon.svg.png',
-      tags: [ 'ReactJS', 'Redux', 'FireBase', 'CSS', 'HTML'],
+    title: 'Cocktails index',
+    description: "Thanks to React and an API, I created a pretty useful cocktail index where you can view details of any known cocktail as well as search for one if you don't see it initially.  It will even tell you how to make the drink and what glass to use.",
+      image: '/images/cocktails.png',
+      tags: [ 'ReactJS', 'API', 'CSS', 'HTML'],
     source: 'https://github.com/cutlerwater/linkedinclone',
-    visit: 'https://linkedin-clone-77ebe.web.app/',
+    visit: 'https://cutlerwater-cocktailsindex.netlify.app/',
     id: 0,
   },
   {
