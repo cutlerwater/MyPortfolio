@@ -27,12 +27,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'All kinds of clones',
-    description: "In the process of building clones of Spotify, LinkedIn, Amazon, Spotify, Tinder, and others.",
-      image: '/images/comingsoon.jpg',
-      tags: [ 'ReactJS', 'TailwindCSS', 'Redux', 'NextJS', 'FireBase', 'CSS', 'HTML'],
-    source: 'https://github.com/cutlerwater/spotifyclone',
-    visit: 'https://cutlerwater-spotifyclone.netlify.app',
+    title: 'Countries index',
+    description: "Again, thanks to ReactJS and an API, I created a rather useful reference site for looking up countries and details about said country.",
+      image: '/images/country.png',
+      tags: [ 'ReactJS', 'TailwindCSS', 'CSS', 'HTML'],
+    source: 'https://github.com/cutlerwater/countriesdb',
+    visit: 'https://cutlerwater-countries-index.netlify.app/',
     id: 0,
   },
   {
