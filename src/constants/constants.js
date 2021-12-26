@@ -1,5 +1,5 @@
 export const projects = [
-  {
+ /*  {
     title: 'Christmas countdown',
     description: "Here's something fun and easy, a Christmas countdown page. There's also a new advent calendar and you can access it through the countdown page.",
       image: '/images/xmaslights.png',
@@ -7,7 +7,7 @@ export const projects = [
     source: 'https://github.com/cutlerwater/XmasCountdown',
     visit: 'https://cutlerwater-xmascountdown.netlify.app/',
     id: 0,
-  },
+  }, */
   {
     title: '3d Worlds',
     description: "I've really outdone myself now with several 3d worlds using ThreeJS and Skybox pictures.  Some really fun stuff here too.  I've recently added quite a few more new worlds and categorized them.",
